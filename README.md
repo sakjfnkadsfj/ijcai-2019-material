@@ -1,1 +1,1 @@
-# ijcai-2019-supplementary
+# ijcai-2019-material
